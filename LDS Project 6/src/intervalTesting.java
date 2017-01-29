@@ -1,6 +1,6 @@
 //Maxwell Lezon
 //maxwell.lezon@rockets.utoledo.edu
-//EECS 1570
+//EECS 2500
 
 //Note: the only error with this code is the "numJobs" not being an int array. I've tried to solve this by taking the input differently but it did not work. 
 
